@@ -1,11 +1,11 @@
-About r-dot
-===========
+About r-dot-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-dot-feedstock/blob/main/LICENSE.txt)
 
 Home: http://haghish.com/dot
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-dot-feedstock/blob/main/LICENSE.txt)
 
 Summary: Renders DOT diagram markup language in R and also provides the possibility to export the graphs in PostScript and SVG (Scalable Vector Graphics) formats. In addition, it supports literate programming packages such as 'knitr' and 'rmarkdown'.
 
